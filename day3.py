@@ -1,0 +1,5 @@
+print("find the AREA of the rectangle")
+side1 = input("enter the length of 1st side: ")
+side2 = input("enter the length of 2nd side: ")
+area= float(side1)*float(side2)
+print("the area is",area ,"cm")
